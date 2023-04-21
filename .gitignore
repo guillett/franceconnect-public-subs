@@ -1,0 +1,7 @@
+database.csv
+mapping.csv
+node_modules/
+/playwright-report/
+/playwright/.cache/
+sub_*
+/test-results/
